@@ -1,0 +1,13 @@
+PNR: BM_20220207_0
+Train No: 1004
+Train Name: Udyan Express
+From:Banglore
+To: Mumbai
+Travel Date: 7/2/2022
+
+Passengers
+Name	Age	Gender	Fare
+Aqsa	19	F	1500
+Irfana	44	F	1500
+Saniya	21	F	1500
+Total Price: 4500.0

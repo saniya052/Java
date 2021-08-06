@@ -1,0 +1,11 @@
+PNR: BD_20340101_0
+Train No: 1001
+Train Name: Shatabdi Express
+From:Bangalore
+To: Delhi
+Travel Date: 1/1/2034
+
+Passengers
+Name	Age	Gender	Fare
+as	12	M	1250
+Total Price: 1250.0

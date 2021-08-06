@@ -1,0 +1,13 @@
+PNR: BC_23210103_0
+Train No: 1005
+Train Name: Brindavan Express
+From:Banglore
+To: Chennai
+Travel Date: 3/1/2321
+
+Passengers
+Name	Age	Gender	Fare
+SSSs	1	M	500
+Saniya	10	M	500
+Shaikh	12	F	500
+Total Price: 1500.0

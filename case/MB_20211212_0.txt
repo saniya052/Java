@@ -1,0 +1,12 @@
+PNR: MB_20211212_0
+Train No: 1003
+Train Name: Udyan Express
+From:Mumbai
+To: Banglore
+Travel Date: 12/12/2021
+
+Passengers
+Name	Age	Gender	Fare
+Shaikh	12	F	750
+saniya	60	M	0
+Total Price: 750.0
